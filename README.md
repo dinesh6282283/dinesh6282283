@@ -4,7 +4,7 @@
 
 <img align="right" width="370" height="290" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 
-- 🔭 Here's my [portfolio](soon)  
+- 🔭 Here's my [portfolio](https://terminalthemed.netlify.app/)  
 - 🌱 I’m currently learning DSA and Full Stack Development, integrating AI into my workflow  
 - 🎓 Engineering at [<img src="https://img.shields.io/badge/Karpagam-Institute_of_Technology-orange" height="24">](https://karpagamtech.ac.in/)  
 - 💼 Previously worked with [Accenture](https://www.accenture.com/us-en)  
